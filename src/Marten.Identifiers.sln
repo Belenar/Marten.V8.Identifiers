@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Martenv7.Identifiers", "Martenv7.Identifiers\Martenv7.Identifiers.csproj", "{F1B629C0-B27F-428C-90A7-342E38349129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Martenv8.Identifiers", "Martenv8.Identifiers\Martenv8.Identifiers.csproj", "{A0A7C754-1EE3-4A6A-9CA8-7419D885BC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B629C0-B27F-428C-90A7-342E38349129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B629C0-B27F-428C-90A7-342E38349129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B629C0-B27F-428C-90A7-342E38349129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B629C0-B27F-428C-90A7-342E38349129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A7C754-1EE3-4A6A-9CA8-7419D885BC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A7C754-1EE3-4A6A-9CA8-7419D885BC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A7C754-1EE3-4A6A-9CA8-7419D885BC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A7C754-1EE3-4A6A-9CA8-7419D885BC10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
